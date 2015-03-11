@@ -25,12 +25,16 @@
 教程：[《Android攻城狮的第一门课（入门篇）》](http://imooc.com/learn/96) ch3 ~ ch7	<br />
 
 - 2015-03-09	<br />
-视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> 
-猜歌教程的复习和技术点的整理，并做成PPT，留作后面进行讲解的资料  <br /> 
+视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> <br />
+猜歌教程的复习和技术点的整理，并做成PPT，留作后面进行讲解的资料
 
 - 2015-03-10	<br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> 
 上午，向老师和同学们讲解“猜歌游戏”PPT，现场演示项目and代码  <br /> 
+
+- 2015-03-11	<br />
+视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> ch6 ~ ch8 前两节
+继续学习“猜歌游戏”的教程
 
 ## License
 ```
