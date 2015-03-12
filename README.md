@@ -33,12 +33,17 @@
 上午，向老师和同学们讲解“猜歌游戏”PPT，现场演示项目and代码  <br /> 
 
 - 2015-03-11	<br />
-视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> ch6 ~ ch8 前两节
+视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162)  ch6 ~ ch8 前两节 <br />
 继续学习“猜歌游戏”的教程 <br /> 
 下午：在GitHub上面建立了“猜歌游戏”的项目工程——[IMoocMusicFull]() <br />
-通过Sublime Text 上的Git插件连接GitHub，并用来Push之前建立的这个——[The-Way-I-Learn-Android]()，问题是在Git Bash的命令行下可以推送成功，而在Sublime Text下使用Git的命令却失败了，没找到原因，试了几种方法均失败，理论知识欠缺，需要补充Git的知识。<br />
-晚上：看《疯狂Java讲义》第五章：面向对象（上）的前五节<br />
+通过Sublime Text 上的Git插件连接GitHub，并用来Push之前建立的这个Repository——[The-Way-I-Learn-Android](https://github.com/MiracleWong/IMoocMusicFull)，<br />
+问题是在Git Bash的命令行下可以推送成功，而在Sublime Text下使用Git的命令却失败了，没找到原因，试了几种方法均失败，理论知识欠缺，需要补充Git的知识。<br />
 看书《设计模式很简单》ch2：工厂方法模式<br />
+
+- 2015-03-12	<br />
+上午：看书《第一行代码Android》ch6：数据存储。 <br />
+编程实现Android中的文件存储 & SharedPreferences存储  <br />
+中午：看《疯狂Java讲义》第五章：面向对象（上）的前五节 <br />
 
 ## License
 ```
