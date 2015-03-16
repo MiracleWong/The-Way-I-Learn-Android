@@ -61,6 +61,13 @@
 上午：《疯狂Java讲义》5.5——5.7
 晚上：看博文，完善自己的学习路线
 
+- 2015-03-16	<br />
+上午：[《Android中的数据存储、组件与手势》](http://imooc.com/learn/179) 中的ContentProvider、BroadcastReceiver、Service组件<br />
+下午：看书《疯狂Java讲义》5.8-5.10 <br />
+《第一行代码Android》ch14：酷欧天气的开发<br />
+晚上：博文[《Android学习之路》](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)<br />
+[《我是如何自学Android，资料分享（2015 版）》](http://www.jianshu.com/p/874ff12a4c01)<br />
+
 ## License
 ```
 Copyright MiracleWong
