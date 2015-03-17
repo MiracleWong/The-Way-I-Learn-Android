@@ -2,21 +2,15 @@
 我的Android学习之路，主要记录我的android的学习过程，时间节点，看过的书籍、资料、博客和文章，以及自己的项目和Demo。
 
 ## 学习过程
-- 2015-02-01 <br />
-- 2015-02-02 <br />
-- 2015-02-03 <br />
-
 - 2015-02-04 <br />
 视频教程：[《超快的Android模拟器Genymotion》](http://imooc.com/learn/241) <br />
 安装模拟器——Genymotion	<br />
 博客专题：[《Android模拟器的“神话”——Genymotion操作使用过程详解》](http://mobile.51cto.com/android-405002.htm) <br />
+http://toutiao.io/ 
 
-- 2015-02-05 <br />
-- 2015-02-06 <br />
 
 - 2015-02-01——2015-02-09	<br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br />
-
 
 - 2015-03-07 	<br />
 教程：[《Android攻城狮的第一门课（入门篇）》](http://imooc.com/learn/96) ch1 & ch2	<br />
@@ -67,6 +61,15 @@
 《第一行代码Android》ch14：酷欧天气的开发<br />
 晚上：博文[《Android学习之路》](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)<br />
 [《我是如何自学Android，资料分享（2015 版）》](http://www.jianshu.com/p/874ff12a4c01)<br />
+
+- 2015-03-17	<br />
+上午：开会，向老师汇报Android的学习情况<br />
+《第一行代码Android》ch1（开会时无聊重新看了一遍）<br />
+《疯狂Java讲义》6.1——6.3<br />
+晚上：博文[《Android学习之路》](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)<br />
+[《我是如何自学Android，资料分享（2015 版）》](http://www.jianshu.com/p/874ff12a4c01)<br />
+将上述两篇博文中的内容大体开了一遍，下载了一些资料
+
 
 ## License
 ```
