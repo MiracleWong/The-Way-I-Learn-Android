@@ -70,6 +70,9 @@ http://toutiao.io/
 [《我是如何自学Android，资料分享（2015 版）》](http://www.jianshu.com/p/874ff12a4c01)<br />
 将上述两篇博文中的内容大体开了一遍，下载了一些资料
 
+- 2015-03-18	<br />
+下午：启动Android Studio后，发现没有64位的JavaJDK，安装JDK。之后启动时卡在了搜索SDK上面，搜索了几个方法没有解决，准备看外stormzhang的文章后，再来解决！<br />
+一整天，在看托业（TOEIC）书籍，备考中。<br />
 
 ## License
 ```
