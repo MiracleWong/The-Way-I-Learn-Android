@@ -74,6 +74,10 @@ http://toutiao.io/
 下午：启动Android Studio后，发现没有64位的JavaJDK，安装JDK。之后启动时卡在了搜索SDK上面，搜索了几个方法没有解决，准备看外stormzhang的文章后，再来解决！<br />
 一整天，在看托业（TOEIC）书籍，备考中。<br />
 
+- 2015-03-18	<br />
+下午：看书《疯狂Java讲义》6.4有关final关键词的内容<br />
+其他时间进行托业考试的测验和总结<br />
+
 ## License
 ```
 Copyright MiracleWong
