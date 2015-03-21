@@ -78,9 +78,14 @@ http://toutiao.io/
 下午：看书《疯狂Java讲义》6.4有关final关键词的内容<br />
 其他时间进行托业考试的测验和总结<br />
 
-- 2015-03-19	<br />
+- 2015-03-20	<br />
 上午：博客[《Android Studio系列教程一--下载与安装》](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)<br />
 博客[《Android Studio系列教程二--基本设置与运行》](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)<br />
+其他时间，托业考试准备中，听力和阅读技巧的总结，顺便读了两篇英文的文档。<br />
+
+- 2015-03-21	<br />
+下载最新版本的Android Studio
+博客：[《八款Android 开发者必备的小工具》](http://www.jianshu.com/p/e4efec23d4d4) by [Tikitoo](http://www.jianshu.com/users/c35153600475)<br />
 其他时间，托业考试准备中，听力和阅读技巧的总结，顺便读了两篇英文的文档。<br />
 
 
