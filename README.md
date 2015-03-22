@@ -88,6 +88,9 @@ http://toutiao.io/
 博客：[《八款Android 开发者必备的小工具》](http://www.jianshu.com/p/e4efec23d4d4) by [Tikitoo](http://www.jianshu.com/users/c35153600475)<br />
 其他时间，托业考试准备中，听力和阅读技巧的总结，顺便读了两篇英文的文档。<br />
 
+- 2015-03-22	<br />
+上午：托业考试	<br />
+晚上：《Android编程权威指南》ch1：Android应用初体验	<br />
 
 ## License
 ```
