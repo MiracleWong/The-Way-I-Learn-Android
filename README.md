@@ -92,6 +92,14 @@ http://toutiao.io/
 上午：托业考试	<br />
 晚上：《Android编程权威指南》ch1：Android应用初体验	<br />
 
+- 2015-03-23	<br />
+上午：《Android编程权威指南》ch1 & ch2	<br />
+	《Android編程实战》ch1 	<br />
+下午：[《Android5.0新特性-Material Design》](http://imooc.com/learn/215) ch1 、ch2 & ch4 <br />
+	《PS玩转APP设计》ch1 & ch2部分 <br />
+晚上：《疯狂Java讲义》ch6 final和抽象类	<br />
+	《第一行Android代码》ch2 并写代码	<br />
+
 ## License
 ```
 Copyright MiracleWong
