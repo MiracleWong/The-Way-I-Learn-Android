@@ -100,6 +100,14 @@ http://toutiao.io/
 晚上：《疯狂Java讲义》ch6 final和抽象类	<br />
 	《第一行Android代码》ch2 并写代码	<br />
 
+
+- 2015-03-24	<br />
+上午：《Android编程权威指南》ch3 & ch4	<br />
+下午：看书《第一行Android代码》ch3，并敲部分代码 <br />
+开会，和学长们交流<br />
+安装Android Studio，这次成功了。<br />
+晚上：《第一行Android代码》ch3 敲部分代码 <br />
+
 ## License
 ```
 Copyright MiracleWong
