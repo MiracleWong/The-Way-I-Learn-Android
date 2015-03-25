@@ -108,6 +108,16 @@ http://toutiao.io/
 安装Android Studio，这次成功了。<br />
 晚上：《第一行Android代码》ch3 敲部分代码 <br />
 
+
+- 2015-03-25	<br />
+上午：《Android编程权威指南》ch5	<br />
+敲代码《第一行Android代码》ch3，UI设计部分和Nine-Patch <br />
+下午：看书《第一行Android代码》ch4——碎片Fragment，并敲代码实现 <br />
+Android Studio连接真机调试，成功；连接模拟器，失败。自己的电脑配置太低。<br />
+晚上：《第一行Android代码》ch5，完成 <br />
+下载[指读](https://coding.net/u/youzi/p/Zhidu-Android/git)的源代码，并编译成功。<br />
+
+
 ## License
 ```
 Copyright MiracleWong
