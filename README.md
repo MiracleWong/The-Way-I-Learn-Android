@@ -98,25 +98,34 @@ http://toutiao.io/
 下午：[《Android5.0新特性-Material Design》](http://imooc.com/learn/215) ch1 、ch2 & ch4 <br />
 	《PS玩转APP设计》ch1 & ch2部分 <br />
 晚上：《疯狂Java讲义》ch6 final和抽象类	<br />
-	《第一行Android代码》ch2 并写代码	<br />
+	《第一行代码Android》ch2 并写代码	<br />
 
 
 - 2015-03-24	<br />
 上午：《Android编程权威指南》ch3 & ch4	<br />
-下午：看书《第一行Android代码》ch3，并敲部分代码 <br />
+下午：看书《第一行代码Android》ch3，并敲部分代码 <br />
 开会，和学长们交流<br />
 安装Android Studio，这次成功了。<br />
-晚上：《第一行Android代码》ch3 敲部分代码 <br />
+晚上：《第一行代码Android》ch3 敲部分代码 <br />
 
 
 - 2015-03-25	<br />
 上午：《Android编程权威指南》ch5	<br />
-敲代码《第一行Android代码》ch3，UI设计部分和Nine-Patch <br />
-下午：看书《第一行Android代码》ch4——碎片Fragment，并敲代码实现 <br />
+敲代码《第一行代码Android》ch3，UI设计部分和Nine-Patch <br />
+下午：看书《第一行代码Android》ch4——碎片Fragment，并敲代码实现 <br />
 Android Studio连接真机调试，成功；连接模拟器，失败。自己的电脑配置太低。<br />
-晚上：《第一行Android代码》ch5，完成 <br />
+晚上：《第一行代码Android》ch5，完成 <br />
 下载[指读](https://coding.net/u/youzi/p/Zhidu-Android/git)的源代码，并编译成功。<br />
 
+- 2015-03-26	<br />
+上午：《第一行代码Android》ch7 & ch8	<br />
+敲代码，进行真机调试<br />
+下午：看书《第一行代码Android》ch9 & ch10，作ch9的笔记，敲代码实现ch9 <br />
+晚餐时看设计模式的书籍，有关适配器模式的内容。
+晚上：敲代码实现ch10，并进行真机调试 <br />
+使用Android Studio，编码实现《Android编程权威指南》ch1 & ch2 的内容。   <br />
+在微博上 & GitHub上面关注在Android领域比较牛的人物。  <br />
+看有关Android开发的博文。
 
 ## License
 ```
