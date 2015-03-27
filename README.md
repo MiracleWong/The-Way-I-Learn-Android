@@ -127,6 +127,13 @@ Android Studio连接真机调试，成功；连接模拟器，失败。自己的
 在微博上 & GitHub上面关注在Android领域比较牛的人物。  <br />
 看有关Android开发的博文。
 
+- 2015-03-27    <br />
+上午：调试代码：《第一行代码Android》ch10的解析Json的部分 <br />
+下午：开会<br />
+看书《第一行代码Android》ch14：开发CoolWeather的部分
+上传GitHub上CoolWeather项目的部分代码。<br />
+晚上：在Android Studio上写《Android编程权威指南》ch3-ch5的代码，并进行真机调试。<br />
+
 ## License
 ```
 Copyright MiracleWong
