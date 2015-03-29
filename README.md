@@ -134,11 +134,14 @@ Android Studio连接真机调试，成功；连接模拟器，失败。自己的
 上传GitHub上CoolWeather项目的部分代码。<br />
 晚上：在Android Studio上写《Android编程权威指南》ch3-ch5的代码，并进行真机调试。<br />
 
-- 2015-03-27    <br />
+- 2015-03-28    <br />
 上午：调试代码：《Android编程权威指南》ch5的剩余部分。<br />
 看书《Android编程权威指南》ch6：Android SDK版本与兼容<br />
 下午：看书《Android编程权威指南》ch7：UI Fragment<br />
 晚上：休息一下，防空自己，看电影《王牌特工》<br />
+
+- 2015-03-29    <br />
+晚上：看书《Android编程权威指南》ch7-ch8，并编码调试<br />
 
 ## License
 ```
