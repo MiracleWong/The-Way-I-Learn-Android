@@ -143,13 +143,21 @@ Android Studio连接真机调试，成功；连接模拟器，失败。自己的
 - 2015-03-29    <br />
 晚上：看书《Android编程权威指南》ch7-ch8，并编码调试<br />
 
-- 2015-03-29    <br />
+- 2015-03-30    <br />
 上午：看书《Android编程权威指南》ch9<br />
 看书《第一行代码Android》ch14——开发酷欧天气，P476-P517<br />
 代码实现《第一行代码Android》ch14<br />
 下午：看书《第一行代码Android》ch14——开发欧酷天气，P517-P528 和 ch15<br />
 代码实现，酷欧天气开发的功能，并进行真机调试<br />
 晚上：看视频[《<对话>20150329 创新：从0到1》](http://jingji.cntv.cn/2015/03/29/VIDE1427643460347911.shtml)，央视《对话》栏目采访《从0到1》的作者——彼得·蒂尔<br />
+
+- 2015-03-31    <br />
+上午：看书《Android编程权威指南》ch10-ch12<br />
+开会<br />
+下午：视频教程[《快乐的Sublime》]<br />
+晚上：建立了两个Git的Repository，分别是：<br />
+[AndroidProgramming](https://gitcafe.com/MiracleWong/AndroidProgramming.git)<br />
+[50AndroidHacks](https://github.com/MiracleWong/50AndroidHacks.git)<br />
 
 ## License
 ```
