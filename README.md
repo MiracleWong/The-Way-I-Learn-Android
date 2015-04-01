@@ -159,6 +159,15 @@ Android Studio连接真机调试，成功；连接模拟器，失败。自己的
 [AndroidProgramming](https://gitcafe.com/MiracleWong/AndroidProgramming.git)<br />
 [50AndroidHacks](https://github.com/MiracleWong/50AndroidHacks.git)<br />
 
+- 2015-03-31    <br />
+上午：看书《Android编程权威指南》ch9 <br /d>
+编写代码《Android编程权威指南》ch9 & ch10 部分<br />
+下午：[《Android5.0新特性-Material Design》](http://imooc.com/learn/215)ch4主题 & ch5前三节<br />
+编写代码《Android编程权威指南》ch10 部分 <br />
+下载”扫扫图书“的源代码，并在真机上运行 <br>
+晚上：编写代码《Android编程权威指南》ch11 & ch12部分 <br />
+更新自己的博客，地址：[www.miraclewong.info](www.miraclewong.info)
+
 ## License
 ```
 Copyright MiracleWong
