@@ -159,7 +159,7 @@ Android Studio连接真机调试，成功；连接模拟器，失败。自己的
 [AndroidProgramming](https://gitcafe.com/MiracleWong/AndroidProgramming.git)<br />
 [50AndroidHacks](https://github.com/MiracleWong/50AndroidHacks.git)<br />
 
-- 2015-03-31    <br />
+- 2015-04-01    <br />
 上午：看书《Android编程权威指南》ch9 <br /d>
 编写代码《Android编程权威指南》ch9 & ch10 部分<br />
 下午：[《Android5.0新特性-Material Design》](http://imooc.com/learn/215)ch4主题 & ch5前三节<br />
@@ -167,6 +167,14 @@ Android Studio连接真机调试，成功；连接模拟器，失败。自己的
 下载”扫扫图书“的源代码，并在真机上运行 <br>
 晚上：编写代码《Android编程权威指南》ch11 & ch12部分 <br />
 更新自己的博客，地址：[www.miraclewong.info](www.miraclewong.info)
+
+- 2015-04-02    <br />
+上午：查找博客，关于Android实现登录和注册界面<br />
+D3.js的相关内容<br />
+下午：根据《第一行代码》上面关于数据库的内容，实现登录和注册界面<br />
+《断舍离》看完<br />
+晚上：学习Python看完 <br />
+看书《Android编程权威指南》ch12 & ch16 <br />
 
 ## License
 ```
