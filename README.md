@@ -189,6 +189,13 @@ Hack 13——在onCreate()中获取View的高度和宽度<br />
 查找ch13中DatePicker不能返回选择的时间的问题，未果<br />
 《50 Android Hacks》Hack 15——移除标题栏和背景以提升Activity启动速度<br />
 
+- 2015-04-05    <br />
+上午：看书《精彩绝伦的Android UI设计》第一部分：Android设计简介，ch1-ch4<br />
+看书《50 Android Hacks》Hack1~Hack11<br />
+晚上：看书《Android编程权威指南》ch16<br />
+写四月份的Android的学习目标和计划<br />
+
+
 ## License
 ```
 Copyright MiracleWong
