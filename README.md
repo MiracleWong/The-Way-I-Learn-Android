@@ -200,6 +200,11 @@ Hack 13——在onCreate()中获取View的高度和宽度<br />
 晚上：Android Studio上的工程出了问题（见2015-04-04描述），在Eclipse上没有问题，所以今天的工程师在Eclipse是实现的《Android编程权威指南》ch16的响应菜单选项和向上按钮<br />
 分解任务：四月份的Android的学习目标和计划，具体的任务分配到每一周<br />
 
+- 2015-04-07    <br />
+上午：开会，看书《Android编程权威指南》ch17 & ch18<br />
+下午：开会，Eclipse实现《Android编程权威指南》ch17，并改正了之前ch16种一个按钮不能返回的Bug<br />
+晚上：听4月算法在线班的第一次课课程<br />
+
 
 ## License
 ```
