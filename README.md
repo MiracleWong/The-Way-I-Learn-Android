@@ -226,6 +226,19 @@ Hack 13——在onCreate()中获取View的高度和宽度<br />
 下午：视频课程[《与Android Studio的第一次亲密接触》](http://imooc.com/learn/206)
 晚上：总结《猜歌游戏》中的布局和代码的技巧
 
+- 2015-04-13    <br />
+上午：《50 Android Hacks》Hack19-Hack24<br />
+看书《Android编程权威指南》ch21&ch22<br />
+看书《疯狂Android讲义》上面的Fragment和第一行代码上面的Fragment<br />
+下午：看书《疯狂Android讲义》上面的Activity<br />
+编码《Android编程权威指南》ch21&ch22<br />
+晚上：关注有名的Android开发牛人的微博、收藏他们的博客、Follow其GitHub账号以及star上面的开源项目<br />
+
+- 2015-04-14    <br />
+上午：看视频课程[《Android UI模板设计》](http://imooc.com/learn/247)<br />
+下午：开会，汇报自己的工作<br />
+晚上：看书《Android编程权威指南》ch22 & ch23 & ch24<br />
+
 
 ## License
 ```
