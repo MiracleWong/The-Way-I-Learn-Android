@@ -4,29 +4,29 @@
 ## 学习过程
 - 2015-02-04 <br />
 视频教程：[《超快的Android模拟器Genymotion》](http://imooc.com/learn/241) <br />
-安装模拟器——Genymotion	<br />
+安装模拟器——Genymotion   <br />
 博客专题：[《Android模拟器的“神话”——Genymotion操作使用过程详解》](http://mobile.51cto.com/android-405002.htm) <br />
 http://toutiao.io/ 
 
 
-- 2015-02-01——2015-02-09	<br />
+- 2015-02-01——2015-02-09    <br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br />
 
-- 2015-03-07 	<br />
-教程：[《Android攻城狮的第一门课（入门篇）》](http://imooc.com/learn/96) ch1 & ch2	<br />
+- 2015-03-07    <br />
+教程：[《Android攻城狮的第一门课（入门篇）》](http://imooc.com/learn/96) ch1 & ch2    <br />
 
-- 2015-03-08	<br />
-教程：[《Android攻城狮的第一门课（入门篇）》](http://imooc.com/learn/96) ch3 ~ ch7	<br />
+- 2015-03-08    <br />
+教程：[《Android攻城狮的第一门课（入门篇）》](http://imooc.com/learn/96) ch3 ~ ch7    <br />
 
-- 2015-03-09	<br />
+- 2015-03-09    <br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> <br />
 猜歌教程的复习和技术点的整理，并做成PPT，留作后面进行讲解的资料
 
-- 2015-03-10	<br />
+- 2015-03-10    <br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> 
 上午，向老师和同学们讲解“猜歌游戏”PPT，现场演示项目and代码  <br /> 
 
-- 2015-03-11	<br />
+- 2015-03-11    <br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162)  ch6 ~ ch8 前两节 <br />
 继续学习“猜歌游戏”的教程 <br /> 
 下午：在GitHub上面建立了“猜歌游戏”的项目工程——[IMoocMusicFull](https://github.com/MiracleWong/IMoocMusicFull) <br />
@@ -34,7 +34,7 @@ http://toutiao.io/
 问题是在Git Bash的命令行下可以推送成功，而在Sublime Text下使用Git的命令却失败了，没找到原因，试了几种方法均失败，理论知识欠缺，需要补充Git的知识。<br />
 看书《设计模式很简单》ch2：工厂方法模式<br />
 
-- 2015-03-12	<br />
+- 2015-03-12    <br />
 上午：看书《第一行代码Android》ch6：数据存储。 <br />
 编程实现Android中的文件存储 & SharedPreferences存储  <br />
 中午：看《疯狂Java讲义》第五章：面向对象（上）的前五节 <br />
@@ -43,26 +43,26 @@ http://toutiao.io/
 晚上：教学视频[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) 的ch8~ch10 <br />
 相比之前的囫囵吞枣来说这次是比较了解内容了。
 
-- 2015-03-13	<br />
+- 2015-03-13    <br />
 上午：看视频教程，讲Android的四大组件的内容。
 下午 & 晚上： 看完了[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162)的剩余的教程，终于将一些之前不是很懂的内容理解清楚了<br />
 下午6:00-7:00：在崇文书城，寻找Android方面的书籍，看了一些，准备在网上将这些书籍全买下来。
 
-- 2015-03-14	<br />
+- 2015-03-14    <br />
 看书《设计模式很简单》ch3：抽象工厂模式<br />
 
-- 2015-03-15	<br />
+- 2015-03-15    <br />
 上午：《疯狂Java讲义》5.5——5.7
 晚上：看博文，完善自己的学习路线
 
-- 2015-03-16	<br />
+- 2015-03-16    <br />
 上午：[《Android中的数据存储、组件与手势》](http://imooc.com/learn/179) 中的ContentProvider、BroadcastReceiver、Service组件<br />
 下午：看书《疯狂Java讲义》5.8-5.10 <br />
 《第一行代码Android》ch14：酷欧天气的开发<br />
 晚上：博文[《Android学习之路》](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)<br />
 [《我是如何自学Android，资料分享（2015 版）》](http://www.jianshu.com/p/874ff12a4c01)<br />
 
-- 2015-03-17	<br />
+- 2015-03-17    <br />
 上午：开会，向老师汇报Android的学习情况<br />
 《第一行代码Android》ch1（开会时无聊重新看了一遍）<br />
 《疯狂Java讲义》6.1——6.3<br />
@@ -70,55 +70,55 @@ http://toutiao.io/
 [《我是如何自学Android，资料分享（2015 版）》](http://www.jianshu.com/p/874ff12a4c01)<br />
 将上述两篇博文中的内容大体开了一遍，下载了一些资料
 
-- 2015-03-18	<br />
+- 2015-03-18    <br />
 下午：启动Android Studio后，发现没有64位的JavaJDK，安装JDK。之后启动时卡在了搜索SDK上面，搜索了几个方法没有解决，准备看外stormzhang的文章后，再来解决！<br />
 一整天，在看托业（TOEIC）书籍，备考中。<br />
 
-- 2015-03-19	<br />
+- 2015-03-19    <br />
 下午：看书《疯狂Java讲义》6.4有关final关键词的内容<br />
 其他时间进行托业考试的测验和总结<br />
 
-- 2015-03-20	<br />
+- 2015-03-20    <br />
 上午：博客[《Android Studio系列教程一--下载与安装》](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)<br />
 博客[《Android Studio系列教程二--基本设置与运行》](http://stormzhang.com/devtools/2014/11/28/android-studio-tutorial2/)<br />
 其他时间，托业考试准备中，听力和阅读技巧的总结，顺便读了两篇英文的文档。<br />
 
-- 2015-03-21	<br />
+- 2015-03-21    <br />
 下载最新版本的Android Studio
 博客：[《八款Android 开发者必备的小工具》](http://www.jianshu.com/p/e4efec23d4d4) by [Tikitoo](http://www.jianshu.com/users/c35153600475)<br />
 其他时间，托业考试准备中，听力和阅读技巧的总结，顺便读了两篇英文的文档。<br />
 
-- 2015-03-22	<br />
-上午：托业考试	<br />
-晚上：《Android编程权威指南》ch1：Android应用初体验	<br />
+- 2015-03-22    <br />
+上午：托业考试 <br />
+晚上：《Android编程权威指南》ch1：Android应用初体验  <br />
 
-- 2015-03-23	<br />
-上午：《Android编程权威指南》ch1 & ch2	<br />
-	《Android編程实战》ch1 	<br />
+- 2015-03-23    <br />
+上午：《Android编程权威指南》ch1 & ch2 <br />
+    《Android編程实战》ch1    <br />
 下午：[《Android5.0新特性-Material Design》](http://imooc.com/learn/215) ch1 、ch2 & ch4 <br />
-	《PS玩转APP设计》ch1 & ch2部分 <br />
-晚上：《疯狂Java讲义》ch6 final和抽象类	<br />
-	《第一行代码Android》ch2 并写代码	<br />
+    《PS玩转APP设计》ch1 & ch2部分 <br />
+晚上：《疯狂Java讲义》ch6 final和抽象类  <br />
+    《第一行代码Android》ch2 并写代码  <br />
 
 
-- 2015-03-24	<br />
-上午：《Android编程权威指南》ch3 & ch4	<br />
+- 2015-03-24    <br />
+上午：《Android编程权威指南》ch3 & ch4 <br />
 下午：看书《第一行代码Android》ch3，并敲部分代码 <br />
 开会，和学长们交流<br />
 安装Android Studio，这次成功了。<br />
 晚上：《第一行代码Android》ch3 敲部分代码 <br />
 
 
-- 2015-03-25	<br />
-上午：《Android编程权威指南》ch5	<br />
+- 2015-03-25    <br />
+上午：《Android编程权威指南》ch5   <br />
 敲代码《第一行代码Android》ch3，UI设计部分和Nine-Patch <br />
 下午：看书《第一行代码Android》ch4——碎片Fragment，并敲代码实现 <br />
 Android Studio连接真机调试，成功；连接模拟器，失败。自己的电脑配置太低。<br />
 晚上：《第一行代码Android》ch5，完成 <br />
 下载[指读](https://coding.net/u/youzi/p/Zhidu-Android/git)的源代码，并编译成功。<br />
 
-- 2015-03-26	<br />
-上午：《第一行代码Android》ch7 & ch8	<br />
+- 2015-03-26    <br />
+上午：《第一行代码Android》ch7 & ch8  <br />
 敲代码，进行真机调试<br />
 下午：看书《第一行代码Android》ch9 & ch10，作ch9的笔记，敲代码实现ch9 <br />
 晚餐时看设计模式的书籍，有关适配器模式的内容。
@@ -238,6 +238,12 @@ Hack 13——在onCreate()中获取View的高度和宽度<br />
 上午：看视频课程[《Android UI模板设计》](http://imooc.com/learn/247)<br />
 下午：开会，汇报自己的工作<br />
 晚上：看书《Android编程权威指南》ch22 & ch23 & ch24<br />
+
+- 2015-04-15    <br />
+上午：AS编码《Android编程权威指南》ch23 & ch24<br />
+下午：AS编码《Android编程权威指南》ch25<br />
+
+
 
 ## License
 ```
