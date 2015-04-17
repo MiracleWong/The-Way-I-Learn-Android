@@ -243,6 +243,17 @@ Hack 13——在onCreate()中获取View的高度和宽度<br />
 上午：AS编码《Android编程权威指南》ch23 & ch24<br />
 下午：AS编码《Android编程权威指南》ch25<br />
 
+- 2015-04-16    <br />
+上午：AS编码《Android编程权威指南》ch23 & ch24<br />
+下午：AS编码《Android编程权威指南》ch25<br />
+
+- 2015-04-17    <br />
+上午：修改登录注册页面，使用Fragment
+下午：AS编码[《Android  UI模板设计》](http://imooc.com/learn/247)<br />
+GitHub：<br />
+开会讨论新的APP的问题<br />
+
+
 
 
 ## License
