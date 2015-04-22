@@ -273,7 +273,12 @@ GitHub：<br />
 - 2015-04-21    <br />
 上午：看Axure教学视频，绘制APP的原型图，开会布置任务<br />
 下午：绘制APP的原型图，进行全面的补充，补充文档内容。<br />
-晚上：
+
+- 2015-04-22    <br />
+上午：安装Genymotion虚拟机，并解决了在使用ADT的时候运行不了Genymotion虚拟机的问题（被它虐惨了）<br />
+看《Android编程权威指南》ch22，并且编码实现部分功能，查看Flickr的API接口<br />
+下午：看书《啊哈！算法》ch7：神奇的书<br />
+晚上：看书《Android测试和调试实战》ch12：Android调试<br />
 
 ## License
 ```
