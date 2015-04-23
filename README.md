@@ -6,7 +6,7 @@
 视频教程：[《超快的Android模拟器Genymotion》](http://imooc.com/learn/241) <br />
 安装模拟器——Genymotion   <br />
 博客专题：[《Android模拟器的“神话”——Genymotion操作使用过程详解》](http://mobile.51cto.com/android-405002.htm) <br />
-http://toutiao.io/ 
+http://toutiao.io/
 
 
 - 2015-02-01——2015-02-09    <br />
@@ -23,12 +23,12 @@ http://toutiao.io/
 猜歌教程的复习和技术点的整理，并做成PPT，留作后面进行讲解的资料
 
 - 2015-03-10    <br />
-视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br /> 
-上午，向老师和同学们讲解“猜歌游戏”PPT，现场演示项目and代码  <br /> 
+视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162) <br />
+上午，向老师和同学们讲解“猜歌游戏”PPT，现场演示项目and代码  <br />
 
 - 2015-03-11    <br />
 视频教程：[《Android猜歌游戏是这样炼成的》](http://imooc.com/learn/162)  ch6 ~ ch8 前两节 <br />
-继续学习“猜歌游戏”的教程 <br /> 
+继续学习“猜歌游戏”的教程 <br />
 下午：在GitHub上面建立了“猜歌游戏”的项目工程——[IMoocMusicFull](https://github.com/MiracleWong/IMoocMusicFull) <br />
 通过Sublime Text 上的Git插件连接GitHub，并用来Push之前建立的这个Repository——[The-Way-I-Learn-Android](https://github.com/MiracleWong/The-Way-I-Learn-Android)，<br />
 问题是在Git Bash的命令行下可以推送成功，而在Sublime Text下使用Git的命令却失败了，没找到原因，试了几种方法均失败，理论知识欠缺，需要补充Git的知识。<br />
@@ -277,8 +277,17 @@ GitHub：<br />
 - 2015-04-22    <br />
 上午：安装Genymotion虚拟机，并解决了在使用ADT的时候运行不了Genymotion虚拟机的问题（被它虐惨了）<br />
 看《Android编程权威指南》ch22，并且编码实现部分功能，查看Flickr的API接口<br />
-下午：看书《啊哈！算法》ch7：神奇的书<br />
+下午：看书《啊哈！算法》ch7：神奇的树<br />
 晚上：看书《Android测试和调试实战》ch12：Android调试<br />
+
+- 2015-04-23    <br />
+上午：看书《社交网站的数据挖掘和分析》<br />
+《猜歌游戏>的技巧总结ch3<br />
+下午：《猜歌游戏>的技巧总结ch4<br />
+《猜歌游戏>的技巧总结ch5<br />
+开会讨论，APP的一些细节<br />
+熟悉GitHub上Star的一些Android项目<br />
+晚上：4月算法在线班，听课《排序和查找》<br />
 
 ## License
 ```
@@ -296,5 +305,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-
