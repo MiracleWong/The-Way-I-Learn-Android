@@ -289,6 +289,10 @@ GitHub：<br />
 熟悉GitHub上Star的一些Android项目<br />
 晚上：4月算法在线班，听课《排序和查找》<br />
 
+- 2015-04-24    <br />
+上午：《猜歌游戏>的技巧总结ch6(部分)<br />
+下午：开会
+
 ## License
 ```
 Copyright MiracleWong
