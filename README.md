@@ -293,6 +293,10 @@ GitHub：<br />
 上午：《猜歌游戏>的技巧总结ch6(部分)<br />
 下午：开会
 
+- 2015-04-15    <br />
+上午：《猜歌游戏>的技巧总结ch6、ch7:7-1<br />
+晚上：《猜歌游戏>的技巧总结ch7、ch8、ch9 & ch10:10-1<br />
+
 ## License
 ```
 Copyright MiracleWong
