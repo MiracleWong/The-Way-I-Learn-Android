@@ -312,6 +312,10 @@ GitHub：<br />
 下午：看书《》《》<br />
 晚上：看视频并编码，《AsyncTask》<br />
 
+- 2015-04-29    <br />
+上午：画原型图，完善文档<br />
+下午：看书《》《》<br />
+晚上：看视频并编码，《AsyncTask》<br />
 ## License
 ```
 Copyright MiracleWong
