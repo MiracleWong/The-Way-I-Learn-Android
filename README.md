@@ -314,6 +314,12 @@ GitHub：<br />
 
 - 2015-04-29    <br />
 下午：看视频《Android推送》ch1<br />
+
+- 2015-04-30    <br />
+上午：看视频《Android动画》
+下午：看视频《Android推送》ch2 & ch3<br />
+晚上：4月份的月度总结，5月份的目标和计划
+
 ## License
 ```
 Copyright MiracleWong
