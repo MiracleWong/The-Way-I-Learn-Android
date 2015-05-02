@@ -325,6 +325,10 @@ GitHub：<br />
 下午：看视频《Android推送》ch4<br />
 晚上：4月份的月度总结，5月份的目标和计划
 
+- 2015-05-02    <br />
+上午：看视频《Android高级控件》ch2-ListView
+下午：看视频《见证Android消息推送时刻》解析源码1-4<br />
+
 ## License
 ```
 Copyright MiracleWong
