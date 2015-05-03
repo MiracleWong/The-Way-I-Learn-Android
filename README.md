@@ -329,6 +329,9 @@ GitHub：<br />
 上午：看视频《Android高级控件》ch2-ListView
 下午：看视频《见证Android消息推送时刻》解析源码1-4<br />
 
+- 2015-05-03    <br />
+晚上：查找Android的快速开发框架ThinkAndroid<br />
+
 ## License
 ```
 Copyright MiracleWong
