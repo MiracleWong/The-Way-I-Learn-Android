@@ -332,6 +332,10 @@ GitHub：<br />
 - 2015-05-03    <br />
 晚上：查找Android的快速开发框架ThinkAndroid<br />
 
+- 2015-05-04    <br />
+晚上：《见证消息的推送时刻》-进阶篇：第一章，1.1-1.5
+
+
 ## License
 ```
 Copyright MiracleWong
