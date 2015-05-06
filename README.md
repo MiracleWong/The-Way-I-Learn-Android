@@ -339,6 +339,12 @@ GitHub：<br />
 上午：开会
 晚上：《见证消息的推送时刻》-进阶篇：第二章，别名机制<br />
 
+- 2015-05-06    <br />
+上午：看文档《Androidpn的源码分析》<br />
+    分析现行的客户端中的哪些功能是可用的，哪些有Bug<br />
+下午：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第一节：离线消息的推送----1.1-1.8
+晚上：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第一节：离线消息的推送----1.9-1.15<br />
+
 ## License
 ```
 Copyright MiracleWong
