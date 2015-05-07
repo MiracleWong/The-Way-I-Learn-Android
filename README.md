@@ -342,9 +342,14 @@ GitHub：<br />
 - 2015-05-06    <br />
 上午：看文档《Androidpn的源码分析》<br />
     分析现行的客户端中的哪些功能是可用的，哪些有Bug<br />
-下午：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第一节：离线消息的推送----1.1-1.8
+下午：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第一节：离线消息的推送----1.1-1.8<br />
 晚上：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第一节：离线消息的推送----1.9-1.15<br />
 
+- 2015-05-07    <br />
+上午：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第四节：丰富客户端的功能----4.1-4.7<br />
+下午：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第四节：丰富客户端的功能----4.8-4.9<br />
+查找Androidpn项目和Spring MVC合并的资料<br />
+晚上：牛客网做Java的试卷和《剑指offer》的青蛙跳台阶的问题<br />
 ## License
 ```
 Copyright MiracleWong
