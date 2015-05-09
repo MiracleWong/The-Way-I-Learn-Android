@@ -356,6 +356,15 @@ GitHub：<br />
 下午：视频课程[Android-见证消息推送时刻-进阶篇](http://imooc.com/learn/358)第二节：丰富客户端的功能----4.8-4.9<br />
 查找Androidpn项目和Spring MVC合并的资料<br />
 晚上：牛客网做Java的试卷和《剑指offer》的青蛙跳台阶的问题<br />
+
+
+- 2015-05-09    <br />
+上午：部署之前的系统的环境和APP项目，失败。原因为知。
+使用LitePal并看郭霖的博文1、2
+下午：使用LitePal并看郭霖的博文3、4、5
+编写登录注册页面并使用LitePal。
+晚上：【慕课网】课程:[BaseAdapter的使用与优化](http://imooc.com/learn/365)前三节
+
 ## License
 ```
 Copyright MiracleWong
