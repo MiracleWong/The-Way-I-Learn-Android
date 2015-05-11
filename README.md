@@ -365,11 +365,18 @@ GitHub：<br />
 编写登录注册页面并使用LitePal。<br />
 晚上：【慕课网】课程:[BaseAdapter的使用与优化](http://imooc.com/learn/365)前三节<br />
 
-- 2015-05-09    <br />
+- 2015-05-10    <br />
 上午：看视频【慕课网】课程:[BaseAdapter的使用与优化](http://imooc.com/learn/365)完成，并写代码和建立GitHub的仓库<br />
 看视频【慕课网】课程:[QQ5.0侧滑菜单](http://imooc.com/learn/211)前2节，并写代码和建立GitHub的仓库<br />
 下午：解决分组推送的问题让YW解决了路径错误，现在分组推送成功。<br />
 晚上：牛客网刷题，看《剑指offer》看Android的博文<br />
+
+- 2015-05-11    <br />
+上午：看中哥的代码，分析登录注册页面的逻辑<br />
+下午：分析Json解析中的问题，可以成功的解析页面的数据。<br />
+UI界面的制作，登录注册页面<br />
+晚上：看书《第一行代码》ListView和Fragment的内容<br />
+解决Android-client的不能作为Library导入到其他项目的问题。而是将其他的代码合并到这里<br />
 
 ## License
 ```
