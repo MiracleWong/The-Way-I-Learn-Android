@@ -378,6 +378,11 @@ UI界面的制作，登录注册页面<br />
 晚上：看书《第一行代码》ListView和Fragment的内容<br />
 解决Android-client的不能作为Library导入到其他项目的问题。而是将其他的代码合并到这里<br />
 
+- 2015-05-12    <br />
+晚上：看书《剑指Offer》P19-P48
+牛客网刷题，建立GitHub的repository：[WinningAnOffer](https://github.com/MiracleWong/WinningAnOffer)<br />
+4月算法在线班的课程
+
 ## License
 ```
 Copyright MiracleWong
