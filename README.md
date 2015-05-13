@@ -383,6 +383,12 @@ UI界面的制作，登录注册页面<br />
 牛客网刷题，建立GitHub的repository：[WinningAnOffer](https://github.com/MiracleWong/WinningAnOffer)<br />
 4月算法在线班的课程
 
+- 2015-05-13    <br />
+上午：和后台交互，登录成功
+晚上：
+【慕课网】的视频教程[【打造万能适配器】](http://www.imooc.com/learn/372)第一节
+测试APP的推送功能，发现几个Bug需要解决。<br />
+
 ## License
 ```
 Copyright MiracleWong
