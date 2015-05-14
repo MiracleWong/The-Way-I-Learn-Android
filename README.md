@@ -389,6 +389,12 @@ UI界面的制作，登录注册页面<br />
 【慕课网】的视频教程[【打造万能适配器】](http://www.imooc.com/learn/372)第一节
 测试APP的推送功能，发现几个Bug需要解决。<br />
 
+- 2015-05-14    <br />
+上午：解析JSon成功
+下午：实现UserInfo的提取，唉，多看书呀
+晚上：
+【网易云课堂】的视频教程[【Android快速开发教程】](http://study.163.com/course/courseMain.htm?courseId=990020)第一讲
+
 ## License
 ```
 Copyright MiracleWong
