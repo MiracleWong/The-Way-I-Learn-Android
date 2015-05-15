@@ -395,6 +395,10 @@ UI界面的制作，登录注册页面<br />
 晚上：
 【网易云课堂】的视频教程[【Android快速开发教程】](http://study.163.com/course/courseMain.htm?courseId=990020)第一讲
 
+- 2015-05-15    <br />
+上午：开会，讲解工作内容；写UserInfo的登录界面
+晚上：看书《第一行代码》
+
 ## License
 ```
 Copyright MiracleWong
