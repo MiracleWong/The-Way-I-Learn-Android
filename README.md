@@ -399,6 +399,11 @@ UI界面的制作，登录注册页面<br />
 上午：开会，讲解工作内容；写UserInfo的登录界面
 晚上：看书《第一行代码》
 
+- 2015-05-15    <br />
+上午：看书《第一行代码》
+下午：实现Fragment的左右两列布局，并解析Notice数据
+晚上：看书视频教程《How Hod》
+
 ## License
 ```
 Copyright MiracleWong
