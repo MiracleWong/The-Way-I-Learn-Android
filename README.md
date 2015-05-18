@@ -408,6 +408,11 @@ UI界面的制作，登录注册页面<br />
 下午：看书《第一行代码》《Android编程实战》
 晚上：看书视频教程《ListView的下拉刷新》
 
+- 2015-05-17    <br />
+下午：看书《第一行代码》<br />
+下午：视频教程《ListView的下拉刷新》、完成整个的左右分屏<br />
+晚上：《剑指Offer》P49-P66、《Android快速开发教程》的UltimateAndroid的配置、郭霖的博客LitePal的使用5-8<br />
+
 ## License
 ```
 Copyright MiracleWong
