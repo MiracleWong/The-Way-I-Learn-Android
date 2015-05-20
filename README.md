@@ -413,10 +413,15 @@ UI界面的制作，登录注册页面<br />
 下午：视频教程《ListView的下拉刷新》、完成整个的左右分屏<br />
 晚上：《剑指Offer》P49-P66、《Android快速开发教程》的UltimateAndroid的配置、郭霖的博客LitePal的使用5-8<br />
 
-- 2015-05-18    <br />
+- 2015-05-19    <br />
 上午：开会<br />
 下午：看视频《Android的Tab分页》1、2<br />
 晚上：看视频《Android的Tab分页》3<br />
+
+- 2015-05-20    <br />
+上午：实现APP的本地数据库的存储<br />
+下午：和老师讨论文档的撰写内容<br />
+晚上：看书《疯狂的Android讲义》ch1 & ch2部分<br />
 
 ## License
 ```
