@@ -422,7 +422,10 @@ UI界面的制作，登录注册页面<br />
 上午：实现APP的本地数据库的存储<br />
 下午：和老师讨论文档的撰写内容<br />
 晚上：看书《疯狂的Android讲义》ch1 & ch2部分<br />
-
+- 2015-05-20    <br />
+上午：实现APP的本地数据库的存储<br />
+下午：和老师讨论文档的撰写内容<br />
+晚上：看书《疯狂的Android讲义》ch1 & ch2部分<br />
 ## License
 ```
 Copyright MiracleWong
