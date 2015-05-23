@@ -431,6 +431,12 @@ UI界面的制作，登录注册页面<br />
 下午：开会<br />
 晚上：Android Session<br />
 
+- 2015-05-22    <br />
+上午：Android Session<br />
+下午：看视频：《AndroidPN推送》源码解析1-5<br />
+晚上：看视频：《AndroidPN推送》源码解析6-7<br />
+看视频：《AndroidPN推送》标签推送<br />
+看『慕课网』的教学视频[『多种多样的App主界面Tab实现方法』](http://www.imooc.com/learn/264)的第3章： FragmentPagerAdapter+ViewPager实现Tab页面的切换<br />
 ## License
 ```
 Copyright MiracleWong
