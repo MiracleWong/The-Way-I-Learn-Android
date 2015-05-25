@@ -1,4 +1,4 @@
-# The-Way-I-Learn-Android
+ # The-Way-I-Learn-Android
 我的Android学习之路，主要记录我的android的学习过程，时间节点，看过的书籍、资料、博客和文章，以及自己的项目和Demo。
 
 ## 学习过程
@@ -441,6 +441,9 @@ UI界面的制作，登录注册页面<br />
 - 2015-05-24    <br />
 上午：看视频：《AndroidPN推送》别名推送，并代码实现<br />
 下午：Android Session<br />
+
+- 2015-05-25    <br />
+上午：『慕课网』课程[『微信6.0主界面』](http://www.imooc.com/learn/273) 1&2<br />
 
 ## License
 ```
