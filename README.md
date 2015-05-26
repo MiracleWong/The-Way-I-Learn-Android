@@ -445,6 +445,10 @@ UI界面的制作，登录注册页面<br />
 - 2015-05-25    <br />
 上午：『慕课网』课程[『微信6.0主界面』](http://www.imooc.com/learn/273) 1&2<br />
 
+- 2015-05-26    <br />
+下午：开会<br />
+晚上：看书《剑指Offer》和《进军硅谷》，LintCode刷题<br />
+
 ## License
 ```
 Copyright MiracleWong
