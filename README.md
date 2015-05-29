@@ -459,6 +459,13 @@ UI界面的制作，登录注册页面<br />
 上午：整理工程<br />
 晚上：看书《第一行代码》Service章节<br />
 
+
+- 2015-05-29    <br />
+上午：写代码<br />
+下午：开会<br />
+晚上：研究中哥的Demo中的部分代码<br />
+『慕课网』的视频[『Android必学-异步加载』](http://www.imooc.com/learn/406) 1 & 2.1-2.2<br />
+『笨办法学Python』
 ## License
 ```
 Copyright MiracleWong
