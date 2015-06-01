@@ -474,6 +474,11 @@ UI界面的制作，登录注册页面<br />
 『慕课网』的视频[『Android必学-异步加载』](http://www.imooc.com/learn/406) 1 & 2.1-2.2<br />
 『笨办法学Python』
 
+- 2015-06-01   <br />
+上午：修改部分内容<br />
+下午：测试<br />
+晚上：看书《Android UI设计》ch1
+
 ## License
 ```
 Copyright MiracleWong
