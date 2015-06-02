@@ -479,6 +479,13 @@ UI界面的制作，登录注册页面<br />
 下午：测试<br />
 晚上：看书《Android UI设计》ch1
 
+- 2015-06-02   <br />
+上午：解决EditText焦点的获取和失去的问题<br />
+ORMLite的初步学习<br />
+下午：合并工程<br />
+『单例模式』<br />
+晚上：看书《Android UI设计》ch2<br />
+
 ## License
 ```
 Copyright MiracleWong
