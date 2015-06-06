@@ -486,6 +486,10 @@ ORMLite的初步学习<br />
 『单例模式』<br />
 晚上：看书《Android UI设计》ch2<br />
 
+- 2015-06-06   <br />
+下午：解决IP端口设置的问题
+晚上：看书《程序员的职业规划书》并制作思维导图<br />
+
 ## License
 ```
 Copyright MiracleWong
