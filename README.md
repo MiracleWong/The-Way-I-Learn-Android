@@ -490,6 +490,10 @@ ORMLite的初步学习<br />
 下午：解决IP端口设置的问题
 晚上：看书《程序员的职业规划书》并制作思维导图<br />
 
+- 2015-06-07   <br />
+下午：写代码，优化程序
+晚上：《50 Android Hacks》MVP
+
 ## License
 ```
 Copyright MiracleWong
