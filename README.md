@@ -494,6 +494,9 @@ ORMLite的初步学习<br />
 下午：写代码，优化程序
 晚上：《50 Android Hacks》MVP
 
+- 2015-06-08   <br />
+上午：『慕课网』课程《代理模式》
+
 ## License
 ```
 Copyright MiracleWong
