@@ -500,6 +500,9 @@ ORMLite的初步学习<br />
 - 2015-06-11   <br />
 上午：『慕课网』课程[《How-old 刷脸神器》](http://www.imooc.com/learn/393) 2.3-2.6
 
+- 2015-06-11   <br />
+上午：『慕课网』课程[《QQ侧滑》](http://www.imooc.com/learn/393) 
+
 ## License
 ```
 Copyright MiracleWong
