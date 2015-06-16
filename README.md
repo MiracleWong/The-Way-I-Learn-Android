@@ -511,6 +511,9 @@ ORMLite的初步学习<br />
 购买了由@GitHub家园 发起的团购的GitHubT恤 <br />
 看视频[《Android高级控件》](http://www.imooc.com/learn/107)ch6-进度条，并使用Android Studio编写代码，上传GitHub <br />
 
+- 2015-06-16   <br />
+看视频[《Android高级控件》](http://www.imooc.com/learn/107)ch6-SeekBar，并使用Android Studio编写代码，上传GitHub <br />
+
 ## License
 ```
 Copyright MiracleWong
