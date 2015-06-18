@@ -514,8 +514,11 @@ ORMLite的初步学习<br />
 - 2015-06-16   <br />
 看视频[《Android高级控件》](http://www.imooc.com/learn/107)ch6-SeekBar，并使用Android Studio编写代码，上传GitHub <br />
 
-- 2015-06-16   <br />
+- 2015-06-17   <br />
 看视频[《Android高级控件》](http://www.imooc.com/learn/107)ch7、ch11、ch12、ch13，写代码，上传GitHub <br />
+
+- 2015-06-18   <br />
+看视频[《Android高级控件》](http://www.imooc.com/learn/107)ch10，写代码，上传GitHub <br />
 
 ## License
 ```
