@@ -525,6 +525,9 @@ ORMLite的初步学习<br />
 上午：看视频[《观察者模式》](http://www.imooc.com/learn/415)ch3、ch4、ch5 并代码实现<br />
 晚上：看视频[《Android5.0新特性-Material Design》](http://www.imooc.com/learn/215) ch4 & 5.1-5.3<br />
 
+- 2015-06-19   <br />
+晚上：看视频[《Android5.0新特性-Material Design》](http://www.imooc.com/learn/215) ch2<br />
+
 ## License
 ```
 Copyright MiracleWong
