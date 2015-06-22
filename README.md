@@ -531,6 +531,9 @@ ORMLite的初步学习<br />
 - 2015-06-21   <br />
 下午：看视频[《Android5.0新特性-Material Design》](http://www.imooc.com/learn/215) ch3<br />
 
+- 2015-06-22   <br />
+下午：看视频[《Android中的HTTP通信》](http://www.imooc.com/learn/304) <br />
+
 ## License
 ```
 Copyright MiracleWong
