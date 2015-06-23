@@ -534,6 +534,9 @@ ORMLite的初步学习<br />
 - 2015-06-22   <br />
 下午：看视频[《Android中的HTTP通信》](http://www.imooc.com/learn/304) <br />
 
+- 2015-06-23   <br />
+上午、下午：看视频[《Android-效率开发框架》](http://www.imooc.com/learn/431) <br />
+
 ## License
 ```
 Copyright MiracleWong
