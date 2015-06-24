@@ -537,6 +537,9 @@ ORMLite的初步学习<br />
 - 2015-06-23   <br />
 上午、下午：看视频[《Android-效率开发框架》](http://www.imooc.com/learn/431) <br />
 
+- 2015-06-24   <br />
+下午：看博文
+
 ## License
 ```
 Copyright MiracleWong
