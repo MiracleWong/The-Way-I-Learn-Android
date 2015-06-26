@@ -540,6 +540,11 @@ ORMLite的初步学习<br />
 - 2015-06-24   <br />
 下午：看博文
 
+- 2015-06-26   <br />
+上午：开会，测试APP
+下午：出差，演示APP，和赵工交流
+晚上：Code《超级手电筒》前三节
+
 ## License
 ```
 Copyright MiracleWong
