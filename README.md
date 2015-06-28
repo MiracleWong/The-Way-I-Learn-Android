@@ -550,6 +550,10 @@ ORMLite的初步学习<br />
 下午：参加SegmentFault举办的D-day技术分享会，看电影《杀破狼2》
 晚上：Code《超级手电筒》ch5
 
+- 2015-06-28   <br />
+Code《超级手电筒》ch6、ch8
+
+
 ## License
 ```
 Copyright MiracleWong
