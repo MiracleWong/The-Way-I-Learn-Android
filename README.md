@@ -551,7 +551,7 @@ ORMLite的初步学习<br />
 晚上：Code《超级手电筒》ch5
 
 - 2015-06-28   <br />
-Code《超级手电筒》ch6、ch8
+Code《超级手电筒》ch7、ch9
 
 
 ## License
