@@ -553,6 +553,9 @@ ORMLite的初步学习<br />
 - 2015-06-28   <br />
 Code《超级手电筒》ch7、ch9
 
+- 2015-06-29   <br />
+『极客学院』的教程[『Android 注解式框架的使用』](http://www.jikexueyuan.com/course/1320.html)
+
 
 ## License
 ```
