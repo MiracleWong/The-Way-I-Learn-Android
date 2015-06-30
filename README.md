@@ -501,7 +501,7 @@ ORMLite的初步学习<br />
 上午：『慕课网』课程[《How-old 刷脸神器》](http://www.imooc.com/learn/393) 2.3-2.6
 
 - 2015-06-12   <br />
-上午：『慕课网』课程[《QQ侧滑》](http://www.imooc.com/learn/393) 
+上午：『慕课网』课程[《QQ侧滑》](http://www.imooc.com/learn/393)
 
 - 2015-06-13   <br />
 上午：《50 Android Hacks》
@@ -555,6 +555,14 @@ Code《超级手电筒》ch7、ch9
 
 - 2015-06-29   <br />
 『极客学院』的教程[『Android 注解式框架的使用』](http://www.jikexueyuan.com/course/1320.html)
+『极客学院』的教程[『2048游戏』](http://www.jikexueyuan.com/course/1320.html) ch0——ch5
+
+- 2015-06-29   <br />
+上午：『极客学院』的教程[『2048游戏』](http://www.jikexueyuan.com/course/1320.html)ch6——ch9  <br />
+开会 <br />
+下午：『极客学院』的教程[『2048游戏』](http://www.jikexueyuan.com/course/1320.html)ch10 <br />
+『极客学院』的教程[『多功能时钟』](http://www.jikexueyuan.com/course/1320.html)ch10 <br /> ch0——ch4<br />
+晚上：『极客学院』的教程[『多功能时钟』](http://www.jikexueyuan.com/course/1320.html)ch10 <br /> ch5——ch7<br />
 
 
 ## License
