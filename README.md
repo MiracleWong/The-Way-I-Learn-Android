@@ -564,9 +564,13 @@ Code《超级手电筒》ch7、ch9
 『极客学院』的教程[『多功能时钟』](http://www.jikexueyuan.com/course/1320.html)ch10 <br /> ch0——ch4<br />
 晚上：『极客学院』的教程[『多功能时钟』](http://www.jikexueyuan.com/course/1320.html)ch10 <br /> ch5——ch7<br />
 
-- 2015-06-30   <br />
+- 2015-07-01   <br />
 『极客学院』的教程[『多功能时钟』](http://www.jikexueyuan.com/course/1320.html)ch10 <br /> ch8——ch16<br />
 
+- 2015-07-02   <br />
+上午：看博文，code Demo
+下午：写项目的文档——使用手册
+晚上：听Tinyfool叔的公开课
 
 ## License
 ```
