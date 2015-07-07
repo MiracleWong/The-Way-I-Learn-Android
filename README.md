@@ -587,6 +587,9 @@ Code《超级手电筒》ch7、ch9
 - 2015-07-06   <br />
 『极客学院』课程《秘密》ch23-ch32
 
+- 2015-07-07   <br />
+『极客学院』课程[《Android 内存泄漏工具 LeakCanary》](http://www.jikexueyuan.com/course/922.html)
+
 ## License
 ```
 Copyright MiracleWong
