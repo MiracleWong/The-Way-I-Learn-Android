@@ -590,6 +590,10 @@ Code《超级手电筒》ch7、ch9
 - 2015-07-07   <br />
 『极客学院』课程[《Android 内存泄漏工具 LeakCanary》](http://www.jikexueyuan.com/course/922.html)
 
+- 2015-07-08   <br />
+『极客学院』课程[《Android中常用高级控件详解汇总》](http://www.imooc.com/learn/107)ch8：Fragment基础概述
+
+
 ## License
 ```
 Copyright MiracleWong
