@@ -593,6 +593,10 @@ Code《超级手电筒》ch7、ch9
 - 2015-07-08   <br />
 『极客学院』课程[《Android中常用高级控件详解汇总》](http://www.imooc.com/learn/107)ch8：Fragment基础概述
 
+- 2015-07-08   <br />
+上午：《Android高级控件》ch8&ch9 有关Fragment的内容
+晚上：[《Android快速开发教程》](http://study.163.com/course/courseMain.htm?courseId=990020)
+
 
 ## License
 ```
