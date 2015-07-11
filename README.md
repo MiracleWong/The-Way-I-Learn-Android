@@ -600,6 +600,9 @@ Code《超级手电筒》ch7、ch9
 - 2015-07-10  <br />
 上午：开会
 晚上：[《Android JSON解析》](http://study.163.com/course/courseMain.htm?courseId=990020) 
+- 2015-07-11  <br />
+上午：给学弟学妹们讲解Java基础知识
+[《HTTP 网络请求库框架的使用》](http://www.jikexueyuan.com/course/886.html)
 
 
 ## License
