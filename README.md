@@ -604,6 +604,10 @@ Code《超级手电筒》ch7、ch9
 上午：给学弟学妹们讲解Java基础知识
 [《HTTP 网络请求库框架的使用》](http://www.jikexueyuan.com/course/886.html)
 
+- 2015-07-12  <br />
+上午：[《HTTP 网络请求库框架的使用》](http://www.jikexueyuan.com/course/886.html)
+下午：[《Android 网络图片加载缓存处理库的使用》](http://www.jikexueyuan.com/course/805.html)
+
 
 ## License
 ```
