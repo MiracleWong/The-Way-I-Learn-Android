@@ -608,6 +608,13 @@ Code《超级手电筒》ch7、ch9
 上午：[《HTTP 网络请求库框架的使用》](http://www.jikexueyuan.com/course/886.html)
 下午：[《Android 网络图片加载缓存处理库的使用》](http://www.jikexueyuan.com/course/805.html)
 
+- 2015-07-13  <br />
+上午：『极客学院』[《Android实战-倒计时》](http://www.jikexueyuan.com/course/346.html)<br />
+『下拉刷新』<br />
+下午：[《Android SlidingMenu菜单栏程序设计开发》](http://www.jikexueyuan.com/course/61.html) <br />
+[《Android RecyclerView》](http://www.jikexueyuan.com/course/798.html) 
+晚上：《Android 常用 OAuth 登录与分享详解：百度登录》<br />
+[《明日之星-RecyclerView》](http://www.imooc.com/learn/424) 2.1-3.2<br />
 
 ## License
 ```
