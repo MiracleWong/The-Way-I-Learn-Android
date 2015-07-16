@@ -616,6 +616,9 @@ Code《超级手电筒》ch7、ch9
 晚上：《Android 常用 OAuth 登录与分享详解：百度登录》<br />
 [《明日之星-RecyclerView》](http://www.imooc.com/learn/424) 2.1-3.2<br />
 
+
+- 2015-07-14  <br />
+上午：《4月算法》1.算法概述
 ## License
 ```
 Copyright MiracleWong
