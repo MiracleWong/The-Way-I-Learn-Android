@@ -617,8 +617,11 @@ Code《超级手电筒》ch7、ch9
 [《明日之星-RecyclerView》](http://www.imooc.com/learn/424) 2.1-3.2<br />
 
 
-- 2015-07-14  <br />
+- 2015-07-16  <br />
 上午：《4月算法》1.算法概述
+
+- 2015-07-16  <br />
+晚上：《4月算法》2.字符串（到52分钟）
 ## License
 ```
 Copyright MiracleWong
