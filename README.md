@@ -642,6 +642,9 @@ Code《超级手电筒》ch7、ch9
 
 - 2015-07-23  <br />
 晚上：电面Doit.im<br />
+
+- 2015-07-24  <br />
+晚上：《GitHub从入门到实战》ch4<br />
 ## License
 ```
 Copyright MiracleWong
