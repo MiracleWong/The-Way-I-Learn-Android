@@ -645,6 +645,11 @@ Code《超级手电筒》ch7、ch9
 
 - 2015-07-24  <br />
 晚上：《GitHub从入门到实战》ch4<br />
+
+- 2015-07-25  <br />
+上午：《机器学习》ch2：概率论（0-42min）<br />
+下午：《GitHub从入门到实战》ch5<br />
+晚上：《机器学习》ch2：概率论（42-73min）<br />
 ## License
 ```
 Copyright MiracleWong
