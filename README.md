@@ -651,8 +651,15 @@ Code《超级手电筒》ch7、ch9
 下午：《GitHub从入门到实战》ch5<br />
 晚上：《机器学习》ch2：概率论（42-73min）<br />
 
-- 2015-07-25  <br />
+- 2015-07-26  <br />
 下午：APP完善
+
+- 2015-07-26  <br />
+《GitHub从入门到实战》ch4、ch6、ch7<br />
+晚上：Android博文阅读
+『极客学院』《Acitivity》
+『慕课网』《AndroidAnnotations开发框架》
+开源库地址：[AndroidAnnotations](https://github.com/excilys/androidannotations)
 
 ## License
 ```
