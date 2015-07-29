@@ -666,8 +666,13 @@ Code《超级手电筒》ch7、ch9
 开源库地址：[AndroidAnnotations](https://github.com/excilys/androidannotations)<br />
 下午：《GitHub从入门到实战》ch9、ch10<br />
 晚上：Android博文阅读<br />
+《MacTalk人生元编程》P1~P50<br />
 
-
+- 2015-07-28  <br />
+上午：给小伙伴们讲解Git的初步使用，连接OsChina&Git<br />
+下午：《趣学Python》ch7~ch15<br />
+晚上：《4月算法》5.链：32~105min<br />
+Android博文阅读<br />
 
 ## License
 ```
