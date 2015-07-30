@@ -668,11 +668,16 @@ Code《超级手电筒》ch7、ch9
 晚上：Android博文阅读<br />
 《MacTalk人生元编程》P1~P50<br />
 
-- 2015-07-28  <br />
+- 2015-07-29  <br />
 上午：给小伙伴们讲解Git的初步使用，连接OsChina&Git<br />
 下午：《趣学Python》ch7~ch15<br />
 晚上：《4月算法》5.链：32~105min<br />
 Android博文阅读<br />
+
+- 2015-07-30  <br />
+上午：『牛客网』左程云-算法课程《回文串的算法》
+下午：《编程珠玑》ch1 & ch2
+晚上：Android的博文&Code
 
 ## License
 ```
