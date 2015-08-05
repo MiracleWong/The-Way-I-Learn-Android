@@ -703,6 +703,11 @@ Android博文阅读<br />
 坐高铁，去杭州，到公司
 晚上：《程序员的思维修炼》ch6：主动学习
 
+- 2015-08-5  <br />
+上午：早会，注册各种帐号：Quip、DropBox、Doit.im等，下载软件
+下午：配置开发环境，安装软件等
+晚上：下载Xcode并安装，整理今日所学的知识点和文章的地址到EverNote
+
 ## License
 ```
 Copyright MiracleWong
