@@ -703,10 +703,17 @@ Android博文阅读<br />
 坐高铁，去杭州，到公司
 晚上：《程序员的思维修炼》ch6：主动学习
 
-- 2015-08-5  <br />
+- 2015-08-05  <br />
 上午：早会，注册各种帐号：Quip、DropBox、Doit.im等，下载软件
 下午：配置开发环境，安装软件等
 晚上：下载Xcode并安装，整理今日所学的知识点和文章的地址到EverNote
+
+- 2015-08-06  <br />
+上午：早会，ssh-key和git准备，拉取工程的代码；安装Genymotion和VisualBox，编译项目，成功运行<br />
+下午：参加产品迭代会议，总结记录内容。成功运行项目的APP<br />
+晚上：看需求文档，从版本0.1开始。<br />
+研究CardView和RecycleView<br />
+mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-Learn-Android<br />
 
 ## License
 ```
