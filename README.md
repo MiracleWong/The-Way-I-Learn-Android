@@ -715,6 +715,11 @@ Android博文阅读<br />
 研究CardView和RecycleView<br />
 mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-Learn-Android<br />
 
+- 2015-08-06  <br />
+上午：早会，写RecyclerView的Demo<br />
+下午：自动化构建APP<br />
+晚上：和Steven & Andy讨论，他们向我讲解整个android工程的结构<br />
+
 ## License
 ```
 Copyright MiracleWong
