@@ -737,6 +737,11 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：查找EditText失去焦点的资料，完成故事改进卡 #1854 - 4 <br />
 晚上：完成故事改进卡 #1853 ，和PM讨论了业务的细节 <br />
 
+- 2015-08-10  <br />
+上午：早会， 查找GCM推送的资料，未果<br />
+下午：继续找GCM的资料，测试demo均不成功，改为百度云推送，成功<br />
+晚上：看完《后端云Bmob》并demo实现<br />
+
 ## License
 ```
 Copyright MiracleWong
