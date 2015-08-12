@@ -732,16 +732,23 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 晚上：看《小决心》前言，看Android博文 <br />
 
 
-- 2015-08-09  <br />
+- 2015-08-10  <br />
 上午：早会，完成故事改进卡 #1854 - 3 <br />
 下午：查找EditText失去焦点的资料，完成故事改进卡 #1854 - 4 <br />
 晚上：完成故事改进卡 #1853 ，和PM讨论了业务的细节 <br />
 
-- 2015-08-10  <br />
+- 2015-08-11  <br />
 上午：早会， 查找GCM推送的资料，未果<br />
 下午：继续找GCM的资料，测试demo均不成功，改为百度云推送，成功<br />
 晚上：看完《后端云Bmob》并demo实现<br />
 
+- 2015-08-12  <br />
+上午：早会， 查看校招的面经和博文；查找GCM推送的资料，未果<br />
+下午：继续找GCM的资料，测试Demo成功，GCM推送成功；和LY测试AWS的测试成功。<br />
+印象笔记中总结GCM的资料，和一些Android开发的技巧<br />
+晚上：测试新发布版本的APP，并反馈Bug。<br />
+走了一遍Git-Flow的过程，远程创建Feature分支，本地检出，编写代码，推送到远程，再pull request。<br />
+看完《Android桌面解锁》ch1、ch2 <br />
 ## License
 ```
 Copyright MiracleWong
