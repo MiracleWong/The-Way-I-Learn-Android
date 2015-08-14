@@ -749,6 +749,15 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 晚上：测试新发布版本的APP，并反馈Bug。<br />
 走了一遍Git-Flow的过程，远程创建Feature分支，本地检出，编写代码，推送到远程，再pull request。<br />
 看完《Android桌面解锁》ch1、ch2 <br />
+
+- 2015-08-14  <br />
+上午：看了Volley的源代码，看APP工程的源代码<br />
+下午：看APP工程的源代码<br />
+参加产品迭代结束会议
+晚上：看博客：《高效Mac工作环境配置》<br />
+看书《小决心》ch1，更新简历<br />
+
+
 ## License
 ```
 Copyright MiracleWong
