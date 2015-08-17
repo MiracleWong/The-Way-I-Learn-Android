@@ -768,6 +768,13 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：看博文《Android Studio使用技巧系列教程》（1-7）<br />
 晚上：看书《程序员面试金典》<br />
 
+
+- 2015-08-17  <br />
+上午：分解故事卡为技术卡
+下午：看博文关于Java面试题和面试求职<br />
+迭代开始会议<br />
+晚上：写UI界面<br />
+
 ## License
 ```
 Copyright MiracleWong
