@@ -775,6 +775,11 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 迭代开始会议<br />
 晚上：写UI界面<br />
 
+- 2015-08-18  <br />
+上午：早会，看书《Android UI设计》
+下午：完善UI界面，加入跳转逻辑，完成故事卡#1988 & #1989
+晚上：修改bug<br />
+
 ## License
 ```
 Copyright MiracleWong
