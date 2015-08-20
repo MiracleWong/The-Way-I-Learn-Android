@@ -786,6 +786,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
      看Interview的面试题，并寻找答案<br />
 晚上：看书《第一行代码》《Linux Shell 脚本攻略指南》ch1：P1-P41<br />
 
+- 2015-08-20  <br />
+上午、下午：编码实现需求故事卡
+晚上：测试新版本的APP，分析Andy帮忙写的代码和控件<br />
+
 ## License
 ```
 Copyright MiracleWong
