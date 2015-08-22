@@ -791,6 +791,11 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 晚上：测试新版本的APP，分析Andy帮忙写的代码和控件<br />
 看书《程序员面试金典》 ch8：8.1-8.3
 
+- 2015-08-21  <br />
+上午：帮Andy修改他的SignUp页面的UI
+下午：查看源代码，分析APK的组成
+晚上：测试新版本的APP，修复bug<br />
+
 ## License
 ```
 Copyright MiracleWong
