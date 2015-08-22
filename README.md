@@ -796,6 +796,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：查看源代码，分析APK的组成
 晚上：测试新版本的APP，修复bug<br />
 
+- 2015-08-22  <br />
+下午：看笔试面试题<br />
+晚上：做阿里去年的笔试题<br />
+
 ## License
 ```
 Copyright MiracleWong
