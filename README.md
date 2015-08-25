@@ -805,6 +805,9 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：太累了，一下就睡过去了<br />
 晚上：做阿里去年的笔试题<br />
 
+
+- 2015-08-25  <br />
+下午：测试APP<br />
 ## License
 ```
 Copyright MiracleWong
