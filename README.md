@@ -809,8 +809,15 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-08-25  <br />
 下午：测试APP<br />
 
-- 2015-08-25  <br />
+- 2015-08-26  <br />
 下午：测试APP<br />
+
+- 2015-08-2  <br />
+上午：和Steven&Andy 过了一遍UI的故事卡，分配了任务
+下午：第8次迭代开始会议，过UI。
+完成了两个技术7卡。
+晚上：写了一个UI的卡。
+
 ## License
 ```
 Copyright MiracleWong
