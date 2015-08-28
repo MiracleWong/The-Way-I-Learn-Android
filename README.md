@@ -823,8 +823,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：写了两个UI卡。移植GCM的demo到自己的工程中，未成功		<br />
 晚上：公司聚餐、K歌，被坑了，玩High了，喝醉了。		<br />
 
-- 2015-08-29ßßß  <br />
-下午：将GCM的功能集成到现有的工程中，OK
+- 2015-08-29  <br />
+下午：将GCM的功能集成到现有的工程中，OK </br >
+分析GCM官方demo的代码！
+
 ## License
 ```
 Copyright MiracleWong
