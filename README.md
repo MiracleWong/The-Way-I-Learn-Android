@@ -827,6 +827,11 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：将GCM的功能集成到现有的工程中，OK </br >
 分析GCM官方demo的代码！
 
+- 2015-08-30  <br />
+下午：看书《第一行代码》</br >
+晚上：完成#2141 
+
+
 ## License
 ```
 Copyright MiracleWong
