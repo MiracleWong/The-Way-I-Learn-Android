@@ -831,6 +831,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：看书《第一行代码》</br >
 晚上：完成#2141 
 
+- 2015-08-30  <br />
+上午：早会，完成 <br />
+下午：RecyclerView的自定义点击事件
+晚上：打篮球，写新的UI卡
 
 ## License
 ```
