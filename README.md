@@ -846,6 +846,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 使用markman和Android Device Monitor 测试Android UI
 晚上：看文章
 
+- 2015-09-03  <br />
+上午：抗战70周年阅兵式：这盛世，如你所愿。
+晚上：看文章Android 动画基础！
+
 ## License
 ```
 Copyright MiracleWong
