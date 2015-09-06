@@ -861,6 +861,13 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-09-06  <br />
 测试UI，修改bug！！
 
+- 2015-09-07  <br />
+上午：《第一行代码》AsyncTask和Message&Handler，写Demo
+早会
+下午：完成#2128 #2124
+晚上：国际化资源整理，测试UI
+
+
 ## License
 ```
 Copyright MiracleWong
