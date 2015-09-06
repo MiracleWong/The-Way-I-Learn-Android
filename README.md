@@ -858,6 +858,9 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 下午：看书《聪明人用方格笔记本》P1-P100
 晚上：腾讯的笔试题
 
+- 2015-09-06  <br />
+测试UI，修改bug！！
+
 ## License
 ```
 Copyright MiracleWong
