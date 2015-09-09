@@ -871,6 +871,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 上午：早会
 下午：国际化资源的整理。
 晚上：修改bug，分析代码、测试UI
+
+- 2015-09-09  <br />
+上午：早会
+下午：修改bug
 ## License
 ```
 Copyright MiracleWong
