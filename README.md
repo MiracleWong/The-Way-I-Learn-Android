@@ -879,6 +879,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-09-10  <br />
 下午：修改迭代结束会议
 
+- 2015-09-11  <br />
+上午：早会，过UI的卡，分配任务
+下午：第9次修改迭代开始会议
+
 ## License
 ```
 Copyright MiracleWong
