@@ -888,6 +888,13 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 上午：番茄：看书《拼了命，尽了兴》ch3
 下午：完善登录注册页面的UI卡
 晚上：ViewPager的Demo，买书《Android群英传》《Android开发艺术探索》
+
+
+- 2015-09-13  <br />
+上午：开题资料的查找
+下午：将ViewPager的demo合并到工程中
+晚上：看书《APP测试实战》
+
 ## License
 ```
 Copyright MiracleWong
