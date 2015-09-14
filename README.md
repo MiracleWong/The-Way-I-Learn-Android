@@ -894,7 +894,9 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 上午：开题资料的查找
 下午：将ViewPager的demo合并到工程中
 晚上：看书《APP测试实战》
-
+- 2015-09-14  <br />
+上午：登录注册的UI
+下午：完成设置中的Gender和拍照
 ## License
 ```
 Copyright MiracleWong
