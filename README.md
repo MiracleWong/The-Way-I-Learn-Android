@@ -897,6 +897,9 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-09-14  <br />
 上午：登录注册的UI
 下午：完成设置中的Gender和拍照
+- 2015-09-15  <br />
+上午：自定义控件 
+
 ## License
 ```
 Copyright MiracleWong
