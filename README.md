@@ -904,6 +904,8 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 上午：更改登录页面和第一次打开的UI
 下午：更改删除bundle中的文字的显示效果，分析代码
 
+- 2015-09-17  <br />
+晚上：看文章,Android性能优化！
 ## License
 ```
 Copyright MiracleWong
