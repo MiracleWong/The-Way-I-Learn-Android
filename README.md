@@ -922,6 +922,11 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-09-21  <br />
 修改bug
 看书《Android群英传》
+
+- 2015-09-22  <br />
+上午：修改bug
+下午：写《性能优化》的报告
+晚上：合并推送的demo
 ##License
 ```
 Copyright MiracleWong
