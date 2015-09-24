@@ -932,6 +932,12 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 上午：迭代结束会议，上台演示show case
 下午：开功能沟通会议，过UI的卡
 晚上：搞定百度推送的demo
+
+
+- 2015-09-24  <br />
+上午：早会，下载官方的demo并调试成功
+下午：加入自己的工程中
+晚上：完成两张卡
 ##License
 ```
 Copyright MiracleWong
