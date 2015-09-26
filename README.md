@@ -942,6 +942,11 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-09-25  <br />
 晚上：国际化资源的整理
 
+
+- 2015-09-25  <br />
+开题报告的撰写
+听古典的演讲
+
 ##License
 ```
 Copyright MiracleWong
