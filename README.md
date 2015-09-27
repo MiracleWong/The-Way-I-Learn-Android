@@ -947,6 +947,10 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 开题报告的撰写
 听古典的演讲
 
+- 2015-09-27  <br />
+开题报告的撰写
+看书《ANdroid群英传》
+每周总结。。
 ##License
 ```
 Copyright MiracleWong
