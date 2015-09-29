@@ -951,6 +951,19 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 开题报告的撰写
 看书《ANdroid群英传》
 每周总结。。
+
+- 2015-09-28  <br />
+早会
+按钮点击的效果
+空箱UI & #2333 UI底部数字
+看书《Android群英传》
+
+
+- 2015-09-28  <br />
+上午：早会  2230
+下午：2231 和 2229
+晚上：看书《Android群英传》
+
 ##License
 ```
 Copyright MiracleWong
