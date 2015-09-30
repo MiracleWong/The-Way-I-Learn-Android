@@ -959,11 +959,15 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 看书《Android群英传》
 
 
-- 2015-09-28  <br />
+- 2015-09-29 <br />
 上午：早会  2230
 下午：2231 和 2229
 晚上：看书《Android群英传》
 
+
+- 2015-09-30  <br />
+晚上：看书《Android群英传》
+『慕课网』的课程『节日短信』
 ##License
 ```
 Copyright MiracleWong
