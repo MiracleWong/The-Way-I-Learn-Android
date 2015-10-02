@@ -971,6 +971,9 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 - 2015-10-01  <br />
 下午：测试andy的模块的UI
 晚上：『慕课网』的课程『节日短信』
+
+- 2015-10-02  <br />
+下午：《android群英传》《android开发艺术探索》
 ##License
 ```
 Copyright MiracleWong
