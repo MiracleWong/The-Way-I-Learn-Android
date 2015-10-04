@@ -974,6 +974,13 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 
 - 2015-10-02  <br />
 下午：《android群英传》《android开发艺术探索》
+\- 2015-10-02  <br />
+下午：《android群英传》《android开发艺术探索》
+- 2015-10-04  <br />
+下午：国际化的整理。
+Viewmodel的实现
+看书《Android开发艺术探索》ch4
+
 ##License
 ```
 Copyright MiracleWong
