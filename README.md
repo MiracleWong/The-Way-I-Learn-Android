@@ -980,11 +980,15 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 Viewmodel的实现
 看书《Android开发艺术探索》ch4
 
-- 2015-10-04  <br />
+- 2015-10-05  <br />
 上午：完善Adapter的内容
 下午：重新在fir.im发布应用
 晚上：看代码
 
+- 2015-10-06  <br />
+上午：学习Beyond Compare
+下午：查找登录注册时候的bug
+晚上：和steve调试增加好友的功能
 ##License
 ```
 Copyright MiracleWong
