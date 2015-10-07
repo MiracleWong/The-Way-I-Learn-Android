@@ -989,6 +989,11 @@ Viewmodel的实现
 上午：学习Beyond Compare
 下午：查找登录注册时候的bug
 晚上：和steve调试增加好友的功能
+
+- 2015-10-07  <br />
+上午：帮忙查找服务端的错误
+下午：修改bug
+晚上：修改bug
 ##License
 ```
 Copyright MiracleWong
