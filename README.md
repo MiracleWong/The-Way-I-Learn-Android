@@ -994,6 +994,10 @@ Viewmodel的实现
 上午：帮忙查找服务端的错误
 下午：修改bug
 晚上：修改bug
+
+- 2015-10-08  <br />
+下午：修改bug
+晚上：修改bug
 ##License
 ```
 Copyright MiracleWong
