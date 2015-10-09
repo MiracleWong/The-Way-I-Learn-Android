@@ -998,6 +998,9 @@ Viewmodel的实现
 - 2015-10-08  <br />
 下午：修改bug
 晚上：修改bug
+- 2015-10-09  <br />
+上午：完成百度推送的demo，和修改包名的过程撰写
+晚上：ListViewModel形式
 ##License
 ```
 Copyright MiracleWong
