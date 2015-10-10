@@ -1001,6 +1001,10 @@ Viewmodel的实现
 - 2015-10-09  <br />
 上午：完成百度推送的demo，和修改包名的过程撰写
 晚上：ListViewModel形式
+
+- 2015-10-10  <br />
+上午：修复bug
+下午：修复bug，完成GroupAdapter的代码
 ##License
 ```
 Copyright MiracleWong
