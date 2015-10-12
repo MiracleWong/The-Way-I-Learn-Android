@@ -1005,6 +1005,12 @@ Viewmodel的实现
 - 2015-10-10  <br />
 上午：修复bug
 下午：修复bug，完成GroupAdapter的代码
+
+- 2015-10-10  <br />
+上午：牙齿矫正
+下午：《夏洛特烦恼》、购物、休息
+晚上：看书《Android群英传》
+
 ##License
 ```
 Copyright MiracleWong
