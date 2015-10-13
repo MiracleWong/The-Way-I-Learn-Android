@@ -1011,6 +1011,11 @@ Viewmodel的实现
 下午：《夏洛特烦恼》、购物、休息
 晚上：看书《Android群英传》
 
+- 2015-10-13  <br />
+上午：收拾寝室
+下午：看书《学会提问》、电影《捉妖记》
+晚上：看书《Android群英传》、跑步
+
 ##License
 ```
 Copyright MiracleWong
@@ -1027,3 +1032,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
