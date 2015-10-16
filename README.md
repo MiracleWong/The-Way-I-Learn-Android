@@ -1016,6 +1016,11 @@ Viewmodel的实现
 下午：看书《学会提问》、电影《捉妖记》
 晚上：看书《Android群英传》、跑步
 
+- 2015-10-16  <br />
+下午：迁移Hexo博客到Mac环境下
+晚上：看blog、关于Android的MVP模式和MVVM模式
+
+
 ##License
 ```
 Copyright MiracleWong
