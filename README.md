@@ -1020,6 +1020,9 @@ Viewmodel的实现
 下午：迁移Hexo博客到Mac环境下
 晚上：看blog、关于Android的MVP模式和MVVM模式
 
+- 2015-10-17  <br />
+下午：还书、清洗眼镜、购物。准备返回杭州
+晚上：看blog、分析开源项目的源代码
 
 ##License
 ```
