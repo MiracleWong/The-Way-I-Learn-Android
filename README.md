@@ -1028,6 +1028,13 @@ Viewmodel的实现
 上午、下午：高铁返回杭州、忘记带RMBP回请闭眼来、看完《他来了，》
 晚上：看书《复盘+》，看Android的博客
 
+- 2015-10-20  <br />
+上午：收MacBook Pro、讲解国际化资源的原理和实现方法
+下午：拉取编译新分支的代码。
+熟悉IM的代码，并在思维导图上进行总结
+晚上：看书《复盘+》ch6，看Android的博客
+
+
 ##License
 ```
 Copyright MiracleWong
