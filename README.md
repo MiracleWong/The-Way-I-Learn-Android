@@ -1040,6 +1040,10 @@ Viewmodel的实现
 重构Android的Mail详情页的代码
 晚上：看书《复盘+》ch6，
 
+- 2015-10-23  <br />
+完成Mail详情页中的UI			<br />
+晚上：看书《复盘+》ch7			<br />
+
 ##License
 ```
 Copyright MiracleWong
