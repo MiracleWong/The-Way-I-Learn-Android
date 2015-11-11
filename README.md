@@ -1044,6 +1044,10 @@ Viewmodel的实现
 完成Mail详情页中的UI			<br />
 晚上：看书《复盘+》ch7			<br />
 
+- 2015-10-23  <br />
+上午：调整UI，清理代码		<br />
+下午：更改了ViewPager的图片。完成“扩大点击区域”<br />
+晚上：国际化资源的整理		<br />
 ##License
 ```
 Copyright MiracleWong
