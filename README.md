@@ -1053,6 +1053,12 @@ Viewmodel的实现
 上午：设置新样式的progressBar<br />
 下午：会话邮件的位置显示，屏蔽All Inbox<br />
 晚上：加入ActionSheet的效果，屏蔽黑名单<br />
+
+
+- 2015-11-13  <br />
+上午：<br />
+下午：<br />
+晚上：<br />
 ##License
 ```
 Copyright MiracleWong
