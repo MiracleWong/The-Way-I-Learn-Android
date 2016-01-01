@@ -599,7 +599,7 @@ Code《超级手电筒》ch7、ch9
 
 - 2015-07-10  <br />
 上午：开会
-晚上：[《Android JSON解析》](http://study.163.com/course/courseMain.htm?courseId=990020) 
+晚上：[《Android JSON解析》](http://study.163.com/course/courseMain.htm?courseId=990020)
 - 2015-07-11  <br />
 上午：给学弟学妹们讲解Java基础知识
 [《HTTP 网络请求库框架的使用》](http://www.jikexueyuan.com/course/886.html)
@@ -612,7 +612,7 @@ Code《超级手电筒》ch7、ch9
 上午：『极客学院』[《Android实战-倒计时》](http://www.jikexueyuan.com/course/346.html)<br />
 『下拉刷新』<br />
 下午：[《Android SlidingMenu菜单栏程序设计开发》](http://www.jikexueyuan.com/course/61.html) <br />
-[《Android RecyclerView》](http://www.jikexueyuan.com/course/798.html) 
+[《Android RecyclerView》](http://www.jikexueyuan.com/course/798.html)
 晚上：《Android 常用 OAuth 登录与分享详解：百度登录》<br />
 [《明日之星-RecyclerView》](http://www.imooc.com/learn/424) 2.1-3.2<br />
 
@@ -829,7 +829,7 @@ mac下配置adb & mac配置多个git的ssh-key，并拉取本项目：The-Way-I-
 
 - 2015-08-30  <br />
 下午：看书《第一行代码》</br >
-晚上：完成#2141 
+晚上：完成#2141
 
 - 2015-08-31  <br />
 上午：早会，完成 <br />
@@ -1053,12 +1053,6 @@ Viewmodel的实现
 上午：设置新样式的progressBar<br />
 下午：会话邮件的位置显示，屏蔽All Inbox<br />
 晚上：加入ActionSheet的效果，屏蔽黑名单<br />
-
-
-- 2015-11-13  <br />
-上午：<br />
-下午：<br />
-晚上：<br />
 ##License
 ```
 Copyright MiracleWong
@@ -1075,5 +1069,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-
