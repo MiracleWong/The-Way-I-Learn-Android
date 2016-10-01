@@ -1053,6 +1053,16 @@ Viewmodel的实现
 上午：设置新样式的progressBar<br />
 下午：会话邮件的位置显示，屏蔽All Inbox<br />
 晚上：加入ActionSheet的效果，屏蔽黑名单<br />
+
+
+- 2016-10-01  <br />
+看Android的文章：
+[Android多语言切换](http://xesam.github.io/android/2016/08/04/Android-%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%88%87%E6%8D%A2.html
+[安卓开发之自定义控件TipView仿QQ长按后的提示窗口](http://blog.csdn.net/cxmscb/article/details/52685864)
+
+
+
+
 ##License
 ```
 Copyright MiracleWong
